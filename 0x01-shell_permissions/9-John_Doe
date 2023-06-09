@@ -1,3 +1,2 @@
 #!/bin/bash
-sh: 1: q: not found
 chmod 753 hello
