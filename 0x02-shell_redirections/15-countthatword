@@ -1,2 +1,2 @@
 #!/bin/bash
-agrep -C "bin" /etc/passwd
+agrep -c "bin" /etc/passwd
